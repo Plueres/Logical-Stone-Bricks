@@ -1,0 +1,46 @@
+{
+	"stonebrick": {
+		"textures": {
+			"up": "stonebrick_up",
+			"down": "stonebrick_down",
+			"north": "stonebrick_north",
+			"south": "stonebrick_south",
+			"east": "stonebrick_east",
+			"west": "stonebrick_west"
+		}
+	},
+	"monster_egg": {
+		"textures": {
+			"up": "monster_egg_up",
+			"down": "monster_egg_down",
+			"north": "monster_egg_north",
+			"south": "monster_egg_south",
+			"east": "monster_egg_east",
+			"west": "monster_egg_west"
+		}
+	},
+	"cobblestone_wall": {
+		"textures": {
+			"up": "cobblestone_wall_up",
+			"down": "cobblestone_wall_down",
+			"north": "cobblestone_wall_north",
+			"south": "cobblestone_wall_south",
+			"east": "cobblestone_wall_east",
+			"west": "cobblestone_wall_west"
+		}
+	},
+	"stone_brick_stairs": {
+		"textures": {
+			"up": "stonebrick_top",
+			"down": "stonebrick_top",
+			"side": "stonebrick_slab_side"
+		}
+	},
+	"mossy_stone_brick_stairs": {
+		"textures": {
+			"up": "stonebrick_mossy_top",
+			"down": "stonebrick_mossy_top",
+			"side": "stonebrick_mossy_slab_side"
+		}
+	}
+}

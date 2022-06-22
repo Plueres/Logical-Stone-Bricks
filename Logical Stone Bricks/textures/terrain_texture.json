@@ -1,0 +1,368 @@
+{
+	"resource_pack_name": "RicksBetterVanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"stone_slab_top": {
+			"textures": [
+				"textures/blocks/stone_slab_top",
+				"textures/blocks/sandstone_top",
+				"textures/blocks/planks_oak",
+				"textures/blocks/cobblestone",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/quartz_block_top",
+				"textures/blocks/nether_brick"
+			]
+		},
+		"stone_slab_bottom": {
+			"textures": [
+				"textures/blocks/stone_slab_top",
+				"textures/blocks/sandstone_bottom",
+				"textures/blocks/planks_oak",
+				"textures/blocks/cobblestone",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/quartz_block_bottom",
+				"textures/blocks/nether_brick"
+			]
+		},
+		"stone_slab_side": {
+			"textures": [
+				"textures/blocks/stone_slab_side",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/planks_oak",
+				"textures/blocks/cobblestone",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_slab",
+				"textures/blocks/quartz_block_side",
+				"textures/blocks/nether_brick"
+			]
+		},
+		"stone_slab_top_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/quartz_block_top",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_top",
+				"textures/blocks/red_sandstone_top"
+			]
+		},
+		"stone_slab_bottom_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/quartz_block_top",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_top",
+				"textures/blocks/red_sandstone_top"
+			]
+		},
+		"stone_slab_side_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_slab",
+				"textures/blocks/quartz_block_top",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_smooth",
+				"textures/blocks/red_sandstone_smooth"
+			]
+		},
+		"double_stone_slab_top": {
+			"textures": [
+				"textures/blocks/stone_slab_top",
+				"textures/blocks/sandstone_top",
+				"textures/blocks/planks_oak_slab_side",
+				"textures/blocks/cobblestone_slab_side",
+				"textures/blocks/brick_slab_top",
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/quartz_bricks_cracked",
+				"textures/blocks/nether_brick_slab_side"
+			]
+		},
+		"double_stone_slab_bottom": {
+			"textures": [
+				"textures/blocks/stone_slab_top",
+				"textures/blocks/sandstone_bottom",
+				"textures/blocks/planks_oak_slab_side",
+				"textures/blocks/cobblestone_slab_side",
+				"textures/blocks/brick_bottom",
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/quartz_bricks_cracked",
+				"textures/blocks/nether_brick_slab_side"
+			]
+		},
+		"double_stone_slab_side": {
+			"textures": [
+				"textures/blocks/stone_slab_side",
+				"textures/blocks/sandstone",
+				"textures/blocks/planks",
+				"textures/blocks/cobblestone",
+				"textures/blocks/brick_slab_side",
+				"textures/blocks/stone_bricks_slab",
+				"textures/blocks/quartz_bricks_cracked",
+				"textures/blocks/nether_brick_slab_side"
+			]
+		},
+		"double_stone_slab_top_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/quartz_block_slab_chiseled",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_cut_slab_side",
+				"textures/blocks/red_sandstone_cut_slab_side"
+			]
+		},
+		"double_stone_slab_bottom_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/quartz_block_slab_chiseled",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_cut_slab_side",
+				"textures/blocks/red_sandstone_cut_slab_side"
+			]
+		},
+		"double_stone_slab_side_4": {
+			"textures": [
+				"textures/blocks/mossy_stone_bricks_side",
+				"textures/blocks/quartz_block_slab_chiseled",
+				"textures/blocks/stone",
+				"textures/blocks/sandstone_cut_slab_side",
+				"textures/blocks/red_sandstone_cut_slab_side"
+			]
+		},
+		"stonebrick_up": {
+			"textures": [
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/cracked_stone_bricks_top",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"stonebrick_down": {
+			"textures": [
+				"textures/blocks/stone_bricks_bottom",
+				"textures/blocks/mossy_stone_bricks_bottom",
+				"textures/blocks/cracked_stone_bricks_bottom",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"stonebrick_north": {
+			"textures": [
+				"textures/blocks/stone_bricks_north",
+				"textures/blocks/mossy_stone_bricks_north",
+				"textures/blocks/cracked_stone_bricks_north",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"stonebrick_south": {
+			"textures": [
+				"textures/blocks/stone_bricks_south",
+				"textures/blocks/mossy_stone_bricks_south",
+				"textures/blocks/cracked_stone_bricks_south",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"stonebrick_east": {
+			"textures": [
+				"textures/blocks/stone_bricks_east",
+				"textures/blocks/mossy_stone_bricks_east",
+				"textures/blocks/cracked_stone_bricks_east",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"stonebrick_west": {
+			"textures": [
+				"textures/blocks/stone_bricks_west",
+				"textures/blocks/mossy_stone_bricks_west",
+				"textures/blocks/cracked_stone_bricks_west",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone_bricks_top"
+			]
+		},
+		"monster_egg_up": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_top",
+				"textures/blocks/mossy_stone_bricks_top",
+				"textures/blocks/cracked_stone_bricks_top",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"monster_egg_down": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_bottom",
+				"textures/blocks/mossy_stone_bricks_bottom",
+				"textures/blocks/cracked_stone_bricks_bottom",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"monster_egg_north": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_north",
+				"textures/blocks/mossy_stone_bricks_north",
+				"textures/blocks/cracked_stone_bricks_north",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"monster_egg_south": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_south",
+				"textures/blocks/mossy_stone_bricks_south",
+				"textures/blocks/cracked_stone_bricks_south",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"monster_egg_east": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_east",
+				"textures/blocks/mossy_stone_bricks_east",
+				"textures/blocks/cracked_stone_bricks_east",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"monster_egg_west": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/stone_bricks_west",
+				"textures/blocks/mossy_stone_bricks_west",
+				"textures/blocks/cracked_stone_bricks_west",
+				"textures/blocks/stonebrick_carved",
+				"textures/blocks/stone"
+			]
+		},
+		"cobblestone_wall_up": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_wall_top",
+				"textures/blocks/mossy_stone_bricks_wall_top",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"cobblestone_wall_down": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_wall_bottom",
+				"textures/blocks/mossy_stone_bricks_wall_bottom",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"cobblestone_wall_north": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_north_wall",
+				"textures/blocks/mossy_stone_bricks_north_wall",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"cobblestone_wall_south": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_south_wall",
+				"textures/blocks/mossy_stone_bricks_south_wall",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"cobblestone_wall_east": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_east_wall",
+				"textures/blocks/mossy_stone_bricks_east_wall",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"cobblestone_wall_west": {
+			"textures": [
+				"textures/blocks/cobblestone",
+				"textures/blocks/cobblestone_mossy",
+				"textures/blocks/stone_granite",
+				"textures/blocks/stone_diorite",
+				"textures/blocks/stone_andesite",
+				"textures/blocks/sandstone_normal",
+				"textures/blocks/brick",
+				"textures/blocks/stone_bricks_west_wall",
+				"textures/blocks/mossy_stone_bricks_west_wall",
+				"textures/blocks/nether_brick",
+				"textures/blocks/end_bricks",
+				"textures/blocks/prismarine_rough",
+				"textures/blocks/red_sandstone_normal",
+				"textures/blocks/red_nether_brick"
+			]
+		},
+		"stonebrick_slab_side": {
+			"textures": "textures/blocks/stone_bricks_slab"
+		},
+		"stonebrick_mossy_slab_side": {
+			"textures": "textures/blocks/mossy_stone_bricks_slab"
+		},
+		"stonebrick_top": {
+			"textures": "textures/blocks/stone_bricks_top"
+		},
+		"stonebrick_mossy_top": {
+			"textures": "textures/blocks/mossy_stone_bricks_top"
+		}
+	}
+}
