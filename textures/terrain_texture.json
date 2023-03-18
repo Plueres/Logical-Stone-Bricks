@@ -1,5 +1,5 @@
 {
-	"resource_pack_name": "RicksBetterVanilla",
+	"resource_pack_name": "LogicalStoneBricks",
 	"texture_name": "atlas.terrain",
 	"padding": 8,
 	"num_mip_levels": 4,
@@ -271,8 +271,8 @@
 				"textures/blocks/stone_andesite",
 				"textures/blocks/sandstone_normal",
 				"textures/blocks/brick",
-				"textures/blocks/stone_bricks_wall_bottom",
-				"textures/blocks/mossy_stone_bricks_wall_bottom",
+				"textures/blocks/stone_bricks_wall_top",
+				"textures/blocks/mossy_stone_bricks_wall_top",
 				"textures/blocks/nether_brick",
 				"textures/blocks/end_bricks",
 				"textures/blocks/prismarine_rough",
