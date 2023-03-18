@@ -1,18 +1,35 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
-        "description": "Java Texture Pack by Reijvi | Port by _Rickname_",
         "name": "Logical Stone Bricks",
-        "uuid": "1be0da22-d5b1-11ec-9d64-0242ac120002",
-        "version": [0, 1, 0],
-        "min_engine_version": [1, 2, 6]
+        "description": "Java Texture Pack by Reijvi | Port by Plueres",
+        "uuid": "b96703f7-7618-4a08-a168-0d81ea58c030",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ]
     },
     "modules": [
         {
-            "description": "",
             "type": "resources",
-            "uuid": "1be0dc20-d5b1-11ec-9d64-0242ac120002",
-            "version": [0, 1, 0]
-		}
-	]
+            "uuid": "1a4a5a62-3e66-46ea-a063-a9c69c46e068",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Plueres"
+        ],
+        "url": "https://github.com/Plueres"
+    }
 }
